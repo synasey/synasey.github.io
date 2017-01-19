@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(../images/background.jpg);
+}
+
+h1 {
+	color: whitesmoke;
+	padding-left: 70px;
+	padding-top: 30px;
+}
